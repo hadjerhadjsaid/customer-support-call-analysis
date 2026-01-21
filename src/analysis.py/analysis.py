@@ -1,10 +1,10 @@
 
 #install SpeechRecognition, Pydub and spaCy libraries and download pretrained spaCy small English Language model.
 
-!pip install SpeechRecognition
-!pip install pydub
-!pip install spacy
-!python3 -m spacy download en_core_web_sm
+pip install SpeechRecognition
+pip install pydub
+pip install spacy
+python3 -m spacy download en_core_web_sm
 
 # Import required libraries
 import pandas as pd
