@@ -1,0 +1,6 @@
+pandas
+nltk
+SpeechRecognition
+pydub
+spacy
+

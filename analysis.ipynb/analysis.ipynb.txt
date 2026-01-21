@@ -1,0 +1,7 @@
+1. Project Overview
+2. Speech-to-Text Conversion
+3. Audio File Properties
+4. Sentiment Analysis
+5. Named Entity Recognition
+6. Text Similarity
+7. Conclusion
